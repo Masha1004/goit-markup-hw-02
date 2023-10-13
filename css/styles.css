@@ -28,7 +28,9 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-
+.contact-link {
+  font-style: normal;
+}
 .logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -37,9 +39,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-}
-.address-link {
-  font-style: normal;
 }
 .item-link {
   font-family: 'Roboto', sans-serif;
